@@ -1,4 +1,4 @@
-Spotify Web Player Clone
+#Spotify Web Player Clone
 A simple front-end clone of the Spotify web player designed using HTML and CSS. This project aims to replicate the user interface of the Spotify web player.
 
 Features
