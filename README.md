@@ -1,15 +1,19 @@
-<b>Spotify Web Player Clone</b>
-A simple front-end clone of the Spotify web player designed using HTML and CSS. This project aims to replicate the user interface of the Spotify web player.
+<h1>Spotify Web Player Clone</h1>
+<p></p>A simple front-end clone of the Spotify web player designed using HTML and CSS. This project aims to replicate the user interface of the Spotify web player.</p>
 
-Features
-Responsive Design: Optimized for both desktop and mobile devices.
-Navigation Bar: Includes links to Home, Search, and Your Library.
-Content Sections: Features sections for playlists, albums, and more.
-Footer Player: Mimics Spotify's music player controls.
-Demo
-Link to demo
+<h2>Features</h2>h2>
+<ul>
+  <li><b>Responsive Design:</b> Optimized for both desktop and mobile devices.</li>
+  <li><b>Navigation Bar:</b> Includes links to Home, Search, and Your Library.</li>
+  <li><b>Content Sections:</b> Features sections for playlists, albums, and more.</li>
+  <li><b>Footer Player:</b> Mimics Spotify's music player controls.
+</li>
+</ul>
 
-Installation
+<h2>Demo</h2>
+<p>Link to demo</p>
+
+<h2>Installation</h2>h2>
 Clone the repository:
 
 bash
