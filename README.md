@@ -1,6 +1,8 @@
 <h1>Spotify Web Player Clone</h1>
 <p></p>A simple front-end clone of the Spotify web player designed using HTML and CSS. This project aims to replicate the user interface of the Spotify web player.</p>
 
+![Spotify Clone Screenshot](assets/screenshot_spotify.png)
+
 <h2>Features</h2>
 <ul>
   <li><b>Responsive Design:</b> Optimized for both desktop and mobile devices.</li>
