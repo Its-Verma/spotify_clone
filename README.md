@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/spotify-web-player-clone.git
+git clone [https://github.com/yourusername/spotify-web-player-clone.git](https://github.com/Its-Verma/spotify_clone.git)
 cd spotify-web-player-clone
 Open the project:
 Simply open the index.html file in your preferred web browser to view the project.
